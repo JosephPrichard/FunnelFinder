@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 12 10:39:36 CDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0172-a92f-b9be-00000c67d790 
+on database directory D:\School\Forms2\Product\FunnelDb with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/D:/School/Forms2/Product/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=D:\School\Forms2\Product
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
