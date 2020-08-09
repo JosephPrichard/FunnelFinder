@@ -1,3 +1,6 @@
+## Funnel Finder
+FunnelFinder is a desktop application that creates CAD scripts for funnel translations between shapes. It was developed for my IB Computer Science IA. Any information regarding the project can be found in the Documentation folder.
+
 ## Usage and setup
 
 First, install the Database using one of these 3 methods
