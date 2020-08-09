@@ -21,6 +21,6 @@ If you are on a windows, it will automatically set a file path
 Otherwise you can manually set a file path (also in Settings frame)
 
 ## Images
-<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff1.png?raw=true" width="70%" height="70%">
-<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff2.png?raw=true" width="70%" height="70%">
-<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff3.png?raw=true" width="70%" height="70%">
+<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff1.png?raw=true" width="90%" height="90%">
+<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff2.png?raw=true" width="90%" height="90%">
+<img src="https://github.com/JosephPrichard/FunnelFinder/blob/master/Images/ff3.png?raw=true" width="90%" height="90%">
