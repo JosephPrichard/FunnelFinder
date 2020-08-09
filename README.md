@@ -20,3 +20,7 @@ Click "Restore Defaults"
 If you are on a windows, it will automatically set a file path
 Otherwise you can manually set a file path (also in Settings frame)
 
+## Images
+<img src="https://github.com/JosephPrichard/ChessLiteGUI/blob/master/docments/ff1.png?raw=true" width="70%" height="70%">
+<img src="https://github.com/JosephPrichard/ChessLiteGUI/blob/master/docments/ff2.png?raw=true" width="70%" height="70%">
+<img src="https://github.com/JosephPrichard/ChessLiteGUI/blob/master/docments/ff3.png?raw=true" width="70%" height="70%">
