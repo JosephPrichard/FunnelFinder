@@ -5,8 +5,8 @@ FunnelFinder is a desktop application that creates CAD scripts for funnel transl
 
 First, install the Database using one of these 3 methods
 1. Double click DatabaseInstall.jar located in the Product folder
-2. Run the program from windows terminal using java -cp .;derby.jar DbInstall
-3. You can also run the program from terminal using java -jar DatabaseInstall.jar
+2. Run the dbinstall from windows terminal using java -cp .;derby.jar DbInstall
+3. You can also run the dbinstall from terminal using java -jar DatabaseInstall.jar
 
 Next, there are 3 ways you can run FunnelFinder
 1. Double click FunnelFinder.jar located in the Product folder
